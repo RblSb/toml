@@ -1,0 +1,12 @@
+{
+  "name": "toml",
+  "url" : "https://github.com/RblSb/toml",
+  "license": "MIT",
+  "tags": ["cross", "toml"],
+  "description": "Basic toml parser.",
+  "version": "1.0.0",
+  "classPath": "src/",
+  "releasenote": "Initial release.",
+  "contributors": ["RblSb"],
+  "dependencies": {}
+}
